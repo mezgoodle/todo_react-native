@@ -3,8 +3,6 @@ Sanity + React Native app example
 
 This is a [React Native](https://facebook.github.io/react-native/) app for the creating TODO-list.
 
-![Node.js CI](https://github.com/mezgoodle/todo_react-native/workflows/Node.js%20CI/badge.svg)
-
 ## Setup
 
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
