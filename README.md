@@ -1,7 +1,7 @@
 Sanity + React Native app example
 ===
 
-This is a [React Native](https://facebook.github.io/react-native/) app for the creating TODO-list.
+This is a [React Native](https://facebook.github.io/react-native/) app for the creating TODO-list. Code is from one lesson on YouTube. I didn't deploy this project.
 
 ## Setup
 
